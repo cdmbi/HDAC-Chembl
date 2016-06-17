@@ -1,6 +1,0 @@
-matplotlib==1.5.1
-numpy==1.10.4
-mpmath==0.19
-pandas==0.18.0
-scikit-learn==0.17.1
-git+https://github.com/rdkit/conda-rdkit.git
